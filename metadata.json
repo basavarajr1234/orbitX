@@ -1,0 +1,6 @@
+{
+  "name": "Orbit X",
+  "description": "Comprehensive academic resource, previous-year question papers, KCET & NEET preparation, and verified scholarship platform for Karnataka State Board & CBSE students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
